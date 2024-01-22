@@ -1,8 +1,8 @@
 
-OpenStack-Ansible Multi-Node All-in-One (MNAIO) v2
-##################################################
+GenestackMNAIO
+##############
 :date: 2023-02-05
-:tags: mnaio, rackspace, openstack, ansible, openstack-ansible
+:tags: mnaio, rackspace, openstack, ansible, help, genestack
 
 About this repository
 ---------------------
